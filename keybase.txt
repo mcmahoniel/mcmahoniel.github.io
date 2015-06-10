@@ -1,0 +1,67 @@
+==================================================================
+https://keybase.io/mcmahoniel
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://danieljamesmcmahon.com
+  * I am mcmahoniel (https://keybase.io/mcmahoniel) on keybase.
+  * I have a public key with fingerprint 918F B560 32D5 1CC2 3A8C  EC9F 0E46 C927 4AA0 1E57
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "918fb56032d51cc23a8cec9f0e46c9274aa01e57",
+            "host": "keybase.io",
+            "key_id": "0e46c9274aa01e57",
+            "kid": "010156b05074b7824bbf4e777940e59f07d1484186c36561ffe3b66b0214651a5cfc0a",
+            "uid": "2225131871bfe4ffe5cb6375049dc719",
+            "username": "mcmahoniel"
+        },
+        "service": {
+            "hostname": "danieljamesmcmahon.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1433968236,
+    "expire_in": 157680000,
+    "prev": "5b66fa63914f3399d45cffecc0ce088621cbe4af11bec5b304eacdb3893b5a36",
+    "seqno": 6,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.8
+Comment: https://keybase.io/crypto
+
+yMIjAnicbZJbSBVBGMePaVpHukgglRayIRJJ7ezO7OVoPUSHwIyQiAjE087srG56
+dk971luiGcGBLgThiylkRQXd6IJiEZFaPXR76YYFlamd1K6iZkRls2Vvzcsw3/z+
+v49vmNtzEn3+BLI6/iMjfvZ1wv3uwkrflpqjFXUctvVaLlDHldM/m2FapdSJOKbl
+cgFOBYqBkcSLgo4AIYKoKYQS1eAplIgqyFDTeECRzOVyZXbUSzAN1qJ0pWmzGjuE
+TJ1V/8OX/70APEAS5hEvQywrAsTYgFSWZRXyFLFGsg6gAoEiEVFCEjAMKmKJBQQA
+JQQ0RAzCa0xX+UcnCAICIlBkgA0KGYwIlkQZ8VDViQxUD4xSx9LClNFhEtbKbMuk
+FVx9LsfqVSah3iN4s0wzuubd72CH6DS+kthh5ok4tmsTu4IxZa4bCXgKtzbiZaop
+Dk3bQti0dPakLFBFnahpW1wAMJK4pqcHUBRVSRFEKZejNRHToSHTI5AsKTxbXhta
+xZSIDW1okqgCaLCIqkM2uUEJ4QnlFUUSAMEUagYAmBKERR5SjehYVFQRI02UOG++
+nZbNBVgnVytlyqhZamlupUO5+p6u4iRfgt+XPHOG9yl8/tnz/32Vs2dSpiK9w31t
+HcFNN62h9tqZv65HM0czV/ejwLOHt5JGdi9fmr6Lf+rnensm4frxVWOfBzkxFU8t
+u/y1JjVvSWd69ZeTk/Xvj5+PHM55e+ry8U13zbkHrxzL3t84a4PmtC9//3NZ3YEp
+cSD4xG0pXNRVsO3qPTJ8rgj2+Y+Mrt29pyhY+qArruijh5IHY7HuoYnihSl7X/ad
+Dj5rarGrYmOtDanz0rLflaQ1fpJyBl50xJLHv8UD3x87HQ0bVzRkb+hesG1v5+Cr
+VZfSLn4s2ppTMvLoxLXnG7MWzypITA63zn1Y/uYGijZl5F9Ysy9raGLpne3VJ2Z/
+aM6LNLdtzt93oT/xzcU5634DDNwzCw==
+=dow2
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/mcmahoniel
+
+==================================================================
